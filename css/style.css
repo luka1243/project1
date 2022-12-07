@@ -1,0 +1,17 @@
+ul{
+	list-style: none;
+}
+
+li{
+	text-decoration: none;
+}
+
+a{
+	color: #3d58a6;
+	text-decoration: none;
+}
+
+.active{
+	color: #ee4036;
+}
+
